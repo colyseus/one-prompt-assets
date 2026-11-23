@@ -10,9 +10,11 @@ collision footprint of every piece.
 
 | Kit | Download | Contents |
 |---|---|---|
-| [`shooter/`](shooter) | [`shooter-assets.zip`](../../releases/download/shooter-v1/shooter-assets.zip) | 8 animated characters and a blaster, 17 arena pieces |
+| [`shooter/`](shooter) | [`shooter-assets.zip`](../../releases/download/shooter-v2/shooter-assets.zip) | 8 animated characters and a blaster, 17 arena pieces, with tested code for three.js and `@pixi/3d` |
 
-A release's zip never changes once a prompt links to it. Changes ship as a new release.
+A release's zip never changes once a prompt links to it. Changes ship as a new release, so
+[`shooter-v1`](../../releases/tag/shooter-v1), with notes for three.js only, stays as the
+three.js run downloaded it.
 
 ## Credits
 
